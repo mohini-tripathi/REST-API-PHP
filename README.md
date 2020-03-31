@@ -1,13 +1,11 @@
-# php rest api
+# REST API USING PHP
 
 
 This REST API in PHP is created by following the tutorial given below:
+
  https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
 
-
-Technologies used:
-- MySQL,
-- php
+Technology used: PHP, Mysql
 
 
 Database for the project is contained in database.json
