@@ -18,10 +18,6 @@ $ git branch new-branch
 $ git checkout new-branch
 ```
 
-##### checkout branch and install nodejs module via npm command
-```
- $ npm install
- $ node server.js 
-```
+Install any required dependencies.
 
 I've defined methods to create, delete and update products.
